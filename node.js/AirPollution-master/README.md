@@ -8,17 +8,17 @@ L'app notifica il livello di inquinamento più vicino alla tua posizione, e ti d
 
 # Prerequisiti
 
-Se vuoi fare delle modifiche, bisogna istallare [node con npm](https://nodejs.org/en/).
-Poi, dsi istallano le dipendenze:
+Se vuoi fare delle modifiche, bisogna installare [node con npm](https://nodejs.org/en/).
+Poi, si installano le dipendenze:
 
 ---
 npm i
 
 ---
 
-# Istallazione
+# Installazione
 
-Clona questa repository nella project directory, e poi :
+Clona questa repository nella project directory:
 
 ---
 npm start
