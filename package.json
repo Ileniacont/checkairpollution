@@ -1,0 +1,5 @@
+{
+  "name": "App con node.js per monitorare l'inquinamento dell'aria",
+  "description": "App realizzata con node.js.",
+  "main": "src/app.js",
+}
