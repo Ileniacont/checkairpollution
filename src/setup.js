@@ -1,7 +1,7 @@
 const fs = require("fs");
 const fetch = require("node-fetch");
 const inquirer = require("inquirer");
-const APItoken = "15eb11ca03254a04af057045bba814e4";
+const APItoken = "jltHJNg4spUcNjN96ZDtFxJRoYpsgwWC";
 
 const saveLocation = location =>
 	fs.writeFileSync("app-setup.json", JSON.stringify({ location }));
